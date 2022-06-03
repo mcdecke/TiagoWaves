@@ -8,6 +8,4 @@ For example, the 'video.mp4' file was created using notebook, and 'movements.csv
 
 Then, in the Webots simulator, run the tiago++ robot using the 'tiago_py_controller.py' file as the robots controller and it should look similar to the 'waveVideo.mp4' file.
 
-
-https://user-images.githubusercontent.com/7341442/171901820-c5acf822-399a-44f6-9520-90b94128d124.mov
-
+https://user-images.githubusercontent.com/7341442/171902263-562db7cd-9361-4c64-b359-4d69ff5bba36.mp4
